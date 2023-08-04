@@ -2,5 +2,42 @@ h1 {
     font-family: 'Alice', serif;
     background-color: #3c4d22;
     color: #ffffff;
-    font
+    text-align: center;
+}
+
+p {
+    font-family: 'Belleza', sans-serif;
+}
+
+h2 {
+    font-family: 'Arimo', sans-serif;
+}
+
+.meioambiente-part {
+    float: right;
+}
+
+.meioambiente-img {
+    width: 25%;
+    float: left;
+}
+
+.desmatamento-img {
+    width: 25%;
+    float: right;
+}
+
+.fome-img {
+    width: 25%;
+    float: right;
+}
+
+.poluicao-img {
+    width: 25%;
+    float: right;
+}
+
+.tartaruga-img {
+    width: 25%;
+    
 }

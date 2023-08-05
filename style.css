@@ -21,11 +21,21 @@ p {
     font-size: 140%;
 }
 
+.conteudo {
+    display: flex;
+    align-items: center;
+}
 
 main div p {
-  margin: 0 0 0 10px ;
+    float: left;
+    margin: 0 10px 0 10px;
+
 }
 
 main div img {
     width: 30%;
+}
+
+footer p{
+    align-items: center;
 }

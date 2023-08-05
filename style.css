@@ -1,43 +1,31 @@
-h1 {
-    font-family: 'Alice', serif;
-    background-color: #3c4d22;
-    color: #ffffff;
-    text-align: center;
+body {
+    background-color: #DBF1FF;
+    color: #070D06;
 }
 
-p {
-    font-family: 'Belleza', sans-serif;
+h1 {
+    font-family: 'Alice', serif;
+    text-align: center;
+    font-size: 40px;
 }
 
 h2 {
     font-family: 'Arimo', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: #C3D7E3;
 }
 
-.meioambiente-part {
-    float: right;
+p {
+    font-family: 'Belleza', sans-serif;
+    font-size: 140%;
 }
 
-.meioambiente-img {
-    width: 25%;
-    float: left;
+
+main div p {
+  margin: 0 0 0 10px ;
 }
 
-.desmatamento-img {
-    width: 25%;
-    float: right;
-}
-
-.fome-img {
-    width: 25%;
-    float: right;
-}
-
-.poluicao-img {
-    width: 25%;
-    float: right;
-}
-
-.tartaruga-img {
-    width: 25%;
-    
+main div img {
+    width: 30%;
 }
